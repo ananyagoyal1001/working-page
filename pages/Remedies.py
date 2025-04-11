@@ -4,7 +4,6 @@ import numpy as np
 from datetime import datetime, date, timedelta
 import pandas as pd
 from io import BytesIO
-from deta import Deta
 import altair as alt
 import re
 #st.set_page_config(
