@@ -1,0 +1,7 @@
+numpy
+openpyxl
+pandas
+streamlit
+altair
+matplotlib
+altair_saver
